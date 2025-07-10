@@ -19,3 +19,9 @@
 [submodule "42_CPP_06"]
 	path = 42_CPP_06
 	url = git@github.com:Dmusulas/42_CPP_06.git
+[submodule "42_CPP_07"]
+	path = 42_CPP_07
+	url = git@github.com:Dmusulas/42_CPP_07.git
+[submodule "42_CPP_08"]
+	path = 42_CPP_08
+	url = git@github.com:Dmusulas/42_CPP_08.git
