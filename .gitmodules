@@ -4,18 +4,18 @@
 [submodule "42_CPP_01"]
 	path = 42_CPP_01
 	url = git@github.com:Dmusulas/42_CPP_01.git
-[submodule "CPP_02"]
-	path = CPP_02
+[submodule "42_CPP_02"]
+	path = 42_CPP_02
 	url = git@github.com:Dmusulas/42_CPP_02.git
-[submodule "CPP_03"]
-	path = CPP_03
+[submodule "42_CPP_03"]
+	path = 42_CPP_03
 	url = git@github.com:Dmusulas/42_CPP_03.git
-[submodule "CPP_04"]
-	path = CPP_04
+[submodule "42_CPP_04"]
+	path = 42_CPP_04
 	url = git@github.com:Dmusulas/42_CPP_04.git
-[submodule "CPP_05"]
-	path = CPP_05
+[submodule "42_CPP_05"]
+	path = 42_CPP_05
 	url = git@github.com:Dmusulas/42_CPP_05.git
-[submodule "CPP_06"]
-	path = CPP_06
+[submodule "42_CPP_06"]
+	path = 42_CPP_06
 	url = git@github.com:Dmusulas/42_CPP_06.git
