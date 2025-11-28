@@ -1,27 +1,36 @@
 [submodule "42_CPP_00"]
 	path = 42_CPP_00
 	url = git@github.com:Dmusulas/42_CPP_00.git
+	branch = master
 [submodule "42_CPP_01"]
 	path = 42_CPP_01
 	url = git@github.com:Dmusulas/42_CPP_01.git
+	branch = master
 [submodule "42_CPP_02"]
 	path = 42_CPP_02
 	url = git@github.com:Dmusulas/42_CPP_02.git
+	branch = master
 [submodule "42_CPP_03"]
 	path = 42_CPP_03
 	url = git@github.com:Dmusulas/42_CPP_03.git
+	branch = master
 [submodule "42_CPP_04"]
 	path = 42_CPP_04
 	url = git@github.com:Dmusulas/42_CPP_04.git
+	branch = master
 [submodule "42_CPP_05"]
 	path = 42_CPP_05
 	url = git@github.com:Dmusulas/42_CPP_05.git
+	branch = master
 [submodule "42_CPP_06"]
 	path = 42_CPP_06
 	url = git@github.com:Dmusulas/42_CPP_06.git
+	branch = master
 [submodule "42_CPP_07"]
 	path = 42_CPP_07
 	url = git@github.com:Dmusulas/42_CPP_07.git
+	branch = master
 [submodule "42_CPP_08"]
 	path = 42_CPP_08
 	url = git@github.com:Dmusulas/42_CPP_08.git
+	branch = master
